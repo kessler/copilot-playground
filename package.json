@@ -1,0 +1,19 @@
+{
+  "name": "copilot-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kessler/copilot-playground.git"
+  },
+  "author": "Yaniv Kessler",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/kessler/copilot-playground/issues"
+  },
+  "homepage": "https://github.com/kessler/copilot-playground#readme"
+}
